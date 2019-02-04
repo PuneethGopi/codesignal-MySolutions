@@ -1,3 +1,3 @@
 # codesignal-MySolutions
 
-These are My own solutions that i came up with for the problems presented in codesignal.
+These are My own solutions that I came up with for the problems presented in codesignal.
