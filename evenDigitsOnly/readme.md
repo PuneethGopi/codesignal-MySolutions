@@ -4,5 +4,6 @@ Example
 
 For n = 248622, the output should be
 evenDigitsOnly(n) = true;
+
 For n = 642386, the output should be  
 evenDigitsOnly(n) = false.
